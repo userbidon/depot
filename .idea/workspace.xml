@@ -28,8 +28,8 @@
       <file leaf-file-name="20150305102431_add_quantity_to_line_items.rb" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/db/migrate/20150305102431_add_quantity_to_line_items.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="930">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="7" selection-end-column="3" />
+            <state vertical-scroll-proportion="0.14623655" vertical-offset="0" max-vertical-offset="930">
+              <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -770,8 +770,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/db/migrate/20150305102431_add_quantity_to_line_items.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="930">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="7" selection-end-column="3" />
+        <state vertical-scroll-proportion="0.14623655" vertical-offset="0" max-vertical-offset="930">
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
           <folding />
         </state>
       </provider>
