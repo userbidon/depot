@@ -16,6 +16,7 @@ gem 'uglifier', '>= 1.3.0'
 gem 'haml'
 gem "haml-rails", "~> 0.8"
 gem 'mysql2'
+gem 'pg'
 
 # Use jquery as the JavaScript library
 gem 'jquery-rails'
