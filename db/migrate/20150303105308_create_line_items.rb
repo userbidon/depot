@@ -1,4 +1,6 @@
 class CreateLineItems < ActiveRecord::Migration
+  before_save :default_values
+
   def change
     create_table :line_items do |t|
       t.integer :product_id

@@ -27,9 +27,8 @@ test:
   host: localhost
 
 production:
-  adapter: postgresql
-  database: dfsqbdefsp2818
-  username: xrnhfmxljzlpnl
-  password: 6tgkURrZx7fh0MU6fBOpmIMLI8
-  host: ec2-54-83-14-68.compute-1.amazonaws.com
-  port: 5432
+  adapter: mysql2
+  database: depot_prod
+  username: root
+  password:
+  host: localhost
